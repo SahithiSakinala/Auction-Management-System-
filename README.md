@@ -1,5 +1,5 @@
 # Auction-Management-System-
-Project Overview:    
+Project Overview:  
 
 Created a resilient full-stack auction web application reminiscent of eBay. The MySQL database schema was meticulously crafted, resulting in a 25% reduction in downtime and enhanced data accessibility.
 
